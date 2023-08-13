@@ -1,6 +1,14 @@
 # Task Tracker
 
-This project is a simple task tracking application. It was developed following the [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8) tutorial, and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a very simple "task tracker" web application.\
+Developed following the [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8).
+It was my first React app :)
+
+![image](https://github.com/christopherdec/react-task-tracker/assets/55588531/ad307184-ab43-42c8-9eca-2b00fb6eeafe)
+
+![image](https://github.com/christopherdec/react-task-tracker/assets/55588531/21272dea-edc1-4e12-8fdc-9ea7b86e053b)
+
+![image](https://github.com/christopherdec/react-task-tracker/assets/55588531/5d8c7117-1388-4e61-9a9d-fbe35e657ac5)
 
 ## How to run it
 
